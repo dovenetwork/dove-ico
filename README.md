@@ -1,4 +1,4 @@
-# ico-contracts
+# ico-contracts for http://dove.network
 Dove Network token &amp; ICO contracts
 
 Dove Network token contract with tests
